@@ -9,6 +9,7 @@
   "author": "Asaad",
   "license": "ISC",
   "dependencies": {
+    "canvas": "^2.10.2",
     "discord.js": "^13.4.0",
     "dotenv": "^16.0.3",
     "os": "^0.1.2"
